@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AliceJohnson",
+    "year": "2",
+    "email": "alice.johnson@email.com",
+    "specialization": "computerScience"
+  },
+  {
+    "name": "BobSmith",
+    "year": "1",
+    "email": "bob.smith@email.com",
+    "specialization": "mathematics"
+  },
+  {
+    "name": "CharlieBrown",
+    "year": "3",
+    "email": "charlie.brown@email.com",
+    "specialization": "engineering"
+  },
+  {
+    "name": "DianaClark",
+    "year": "4",
+    "email": "diana.clark@email.com",
+    "specialization": "businessAdministration"
+  }
+]
